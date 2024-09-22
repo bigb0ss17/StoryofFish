@@ -1,0 +1,1 @@
+When changing information for the setters on Fish I created two more classes such as Scales and Bioluminescence. Inside of Fish I created classes for them and constructors. Then I created objects for them to add things to their parameters so that when I returned a toString for the story their value would be shown.
